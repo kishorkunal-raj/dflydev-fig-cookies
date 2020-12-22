@@ -4,6 +4,10 @@ php:
   - 7.2
   - nightly
 
+arch:
+  - amd64
+  - ppc64le
+
 cache:
   directories:
     - vendor
